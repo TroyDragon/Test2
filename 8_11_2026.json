@@ -1,5 +1,4 @@
 [
-  [
   {
     "Name": "Getaway Barrel",
     "Set code": "HOB",
@@ -4479,9 +4478,7 @@
     "Proxy": false,
     "Purchase price currency": "EUR",
     "Added": "2026-11-08T19:35:04.602Z"
-  }
-  
-],
+  },
   {
     "Name": "Justice, Vance Astrovik",
     "Set code": "MSH",
